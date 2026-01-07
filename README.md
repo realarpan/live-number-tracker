@@ -2,7 +2,7 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║           LIVE NUMBER TRACKER - HACKER MODE ACTIVATED                    ║
+║           LIVE NUMBER TRACKER - HACKER MODE ACTIVATED                     ║
 ║                    Made by Arpan | Cyberpunk Edition                      ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
